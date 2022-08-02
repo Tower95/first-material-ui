@@ -18,7 +18,7 @@ const App = () => {
       }}
     >
 
-      <h1> Hola</h1>
+      <h1>Hola</h1>
       <Searcher />
     </Container>
   )
